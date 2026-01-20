@@ -1,47 +1,64 @@
-## Retail's Sale Analysis - Task 1
+# 🛒 Retail Sales Analysis – Task 1  
+📊 Exploratory Data Analysis (EDA) using Power BI
 
-**📊 Exploratory Data Analysis (EDA) on Retail Sales Data**
+## 📌 Project Overview
+This project focuses on performing **Exploratory Data Analysis (EDA)** on **Retail Sales Data** using **Power BI** to uncover meaningful insights and trends that support data-driven business decisions.
 
-This project focuses on performing Exploratory Data Analysis (EDA) on retail sales data to uncover meaningful insights and trends that can help businesses make data-driven decisions.
+By leveraging **Power BI’s interactive dashboards, Power Query, and DAX**, the project analyzes sales performance, product categories, and time-based trends to improve business understanding.
 
-Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the project involves data loading, cleaning, descriptive statistics, time-series analysis, customer and product analysis, and data visualization.
+---
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**🔍 Key Features**
+## 🔍 Key Features
+- Importing and transforming retail sales datasets using **Power Query**
+- Handling missing values and data type corrections
+- Creating calculated columns and measures using **DAX**
+- Descriptive analysis using KPIs and summary cards
+- Time-series analysis to identify monthly sales trends
+- Product category-wise sales analysis
+- Interactive and well-labeled visualizations
+- Business insights and recommendations
 
-Data loading and preprocessing of retail sales and product datasets
+---
 
-Handling missing values and data type conversion
+## 🎯 Objective
+The objective of this project is to:
+- Understand retail sales behavior
+- Identify top-performing product categories
+- Analyze sales trends over time
+- Demonstrate the practical application of **EDA using Power BI** in a real-world retail scenario
 
-Descriptive statistical analysis (mean, median, mode, standard deviation)
+---
 
-Time-series analysis to study monthly sales trends
+## 🧠 Analysis Performed
+- **Sales Trend Analysis:** Monthly and yearly sales patterns
+- **Product Analysis:** Category-wise and product-wise sales contribution
+- **Performance KPIs:** Total Sales, Average Sales, Sales Growth
+- **Comparative Analysis:** High vs low-performing products
 
-Product category sales analysis
+---
 
-Clear and well-labeled visualizations (line plots and bar charts)
+## 📊 Visualizations Used
+- Line Charts for sales trends over time
+- Bar Charts for product category performance
+- Cards for KPIs (Total Sales, Total Orders, Average Sales)
+- Slicers for dynamic filtering (Date, Product, Category)
 
-Actionable business insights and recommendations
+---
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**🎯 Objective**
+## 🛠 Tools & Technologies
+- Power BI Desktop  
+- Power Query  
+- DAX (Data Analysis Expressions)  
+- Excel / CSV Retail Dataset  
 
-The goal of this project is to understand sales behavior, identify top-performing product categories, analyze sales trends over time, and demonstrate the practical use of EDA techniques in a real-world retail scenario.
+---
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**🛠 Tools & Technologies**
+## 📈 Outcome
+The analysis helps in:
+- Identifying sales patterns and peak demand periods
+- Understanding product performance
+- Supporting inventory planning and marketing strategies
+- Enhancing overall retail business performance through data-driven insights
 
-Python
+---
 
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**📈 Outcome**
-
-The analysis helps in identifying sales patterns, peak demand periods, and product performance, which can assist retailers in improving inventory planning, marketing strategies, and overall business performance.
